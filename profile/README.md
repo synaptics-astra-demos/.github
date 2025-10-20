@@ -4,7 +4,7 @@ This repository hosts demos and tools built for Synaptics Astra™ platforms for
 
 These examples showcase efficient on-device inference and deployment for Edge AI applications using Synaptics SL NPUs and GPUs.
 
-Explore all Astra AI-related demo projects in this org:
+Explore all Astra SL Series related demo projects in this org:
 
 [![AI Demos](https://img.shields.io/badge/Browse-AI%20Demos-blue?logo=github)](https://github.com/orgs/synaptics-astra-demos/repositories?q=topic:ai)
 
