@@ -8,6 +8,8 @@ Explore all Astra AI-related demo projects in this org:
 
 [![AI Demos](https://img.shields.io/badge/Browse-AI%20Demos-blue?logo=github)](https://github.com/orgs/synaptics-astra-demos/repositories?q=topic:ai)
 
+[![Matter Demos](https://img.shields.io/badge/Browse-Matter%20Demos-green?logo=github)](https://github.com/orgs/synaptics-astra-demos/repositories?q=topic:matter)
+
 ## Additional Resources
 
 - [GitHub Astra SDK](https://github.com/synaptics-astra) – Get started with the Astra SDK for AI development.
